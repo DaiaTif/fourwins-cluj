@@ -1,5 +1,9 @@
 package de.mannheim.fourwins;
-
+/**
+ * Hello!
+ * @author Daiana
+ *
+ */
 class GameControler extends Thread {
 	  private Board theBoard;
 	  private Player white;
